@@ -11,14 +11,9 @@ reveal whether you have a mental illness.
 Now, I'm starting an Insight Data Science Fellowship, and I'm excited to
 apply these techniques to data science. 
 
-=====
+======
 
--- Templates:
-https://startbootstrap.com/themes/resume/
-https://bootstrapmade.com/demo/DevFolio/
+Initial goal. Change the name and flashing text with flask 
 
--- Flexible: stuff linked.
-   * Lots of links: Github. Twitter. Linkedin. Resume. Email me.
+====
 
--- Show off portfolio projects??
--- Bridge. 
