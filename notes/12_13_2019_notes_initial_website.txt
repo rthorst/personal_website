@@ -1,0 +1,24 @@
+===== Main Text ====
+I'm a recent PhD turning to data science. 
+
+In my PhD, I used machine
+learning and text mining to show that people's everyday online behaviors
+-- such as the text of our tweets -- can predict a variety of deep
+psychological facts about us as individuals. For example, I showed your
+tweets are predictive of your decision-making and your Reddit posts may
+reveal whether you have a mental illness. 
+
+Now, I'm starting an Insight Data Science Fellowship, and I'm excited to
+apply these techniques to data science. 
+
+=====
+
+-- Templates:
+https://startbootstrap.com/themes/resume/
+https://bootstrapmade.com/demo/DevFolio/
+
+-- Flexible: stuff linked.
+   * Lots of links: Github. Twitter. Linkedin. Resume. Email me.
+
+-- Show off portfolio projects??
+-- Bridge. 
