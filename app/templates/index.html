@@ -9,7 +9,7 @@
 
   <!-- Favicons -->   
   <link href="{{ url_for('static', filename='img/favicon.png') }} rel="icon">
-  <link href="static/img/apple-touch-icon.png" rel="apple-touch-icon">
+  <link href="{{ url_for('static', filename='img/apple-touch-icon.png') }}" rel="apple-touch-icon">
 
   <!-- Bootstrap CSS File -->
 
@@ -64,7 +64,7 @@
   <!--/ Nav End /-->
 
   <!--/ Intro Skew Star /-->
-  <div id="home" class="intro route bg-image" style="background-image: url(static/img/home_big3.png)">
+  <div id="home" class="intro route bg-image" style="background-image: url({{ url_for('static', filename='img/home_big3.png') }}">
     <div class="overlay-itro"></div>
     <div class="intro-content display-table">
       <div class="table-cell">
@@ -655,7 +655,7 @@
   <script src="contactform/contactform.js"></script>
 
   <!-- Template Main Javascript File -->
-  <script src="static/js/main.js"></script>
+  <script src="{{ url_for('static', filename='js/main.js') }}"></script>
 
 </body>
 </html>
