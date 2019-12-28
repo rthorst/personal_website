@@ -1,0 +1,435 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 201909 will be lost/reset.
+# Last config file used to build this data file was /home/psp9gmj3j4ky/tmp/awstats/awstats.robertthorstad.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2019                
+POS_TIME 2697                
+POS_VISITOR 10291               
+POS_DAY 12081               
+POS_DOMAIN 3390                
+POS_LOGIN 3740                
+POS_ROBOT 3895                
+POS_WORMS 4448                
+POS_EMAILSENDER 4579                
+POS_EMAILRECEIVER 4722                
+POS_SESSION 12348               
+POS_SIDER 12506               
+POS_FILETYPES 4857                
+POS_DOWNLOADS 5064                
+POS_OS 5589                
+POS_BROWSER 5804                
+POS_SCREENSIZE 6211                
+POS_UNKNOWNREFERER 6285                
+POS_UNKNOWNREFERERBROWSER 6533                
+POS_ORIGIN 6776                
+POS_SEREFERRALS 6911                
+POS_PAGEREFS 7089                
+POS_SEARCHWORDS 7295                
+POS_KEYWORDS 7447                
+POS_MISC 2361                
+POS_ERRORS 7506                
+POS_CLUSTER 3596                
+POS_SIDER_404 7610                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20191001002024 57 11898 9250008715672
+FirstTime 20190922160050
+LastTime 20190930172116
+LastUpdate 20191001053331 57 0 56 0 0
+TotalVisits 34                  
+TotalUnique 33                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 51                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+DirectorSupport 0 0 0
+QuickTimeSupport 0 0 0
+JavascriptDisabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+TotalMisc 0 0 0
+RealPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+PDFSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 1 1 8116 2 6 2567544
+1 1 3 8970 1 6 163179
+2 0 0 0 1 17 83841
+3 2 2 41925 3 9 27568
+4 0 0 0 3 4 18788
+5 0 3 909804 5 11 1094332
+6 1 11 152165 0 4 760080
+7 7 34 514000 3 5 2571
+8 6 26 343652 3 8 18610
+9 0 0 0 35 35 275740
+10 4 4 83850 8 21 2736371
+11 1 4 4468105 1 4 1714
+12 3 14 846695 19 26 806440
+13 1 3 17964 1 3 671247
+14 1 3 8304 1 7 183957
+15 1 3 38731 6 12 118265
+16 15 71 2383457 6 34 33826
+17 3 13 167347 1 5 29104
+18 2 12 175255 7 8 20324
+19 0 0 0 5 8 44835
+20 0 0 0 7 9 63710
+21 3 23 327420 5 8 55153
+22 2 12 175255 1 4 1166860
+23 1 1 8116 3 14 1549592
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 10
+us 45 200 6986624
+cn 4 34 393354
+ru 2 2 16232
+gr 1 1 8116
+nl 1 1 33809
+kr 1 1 8116
+hu 1 1 8116
+it 0 1 908465
+ae 0 1 2143690
+in 0 1 172609
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 11
+Googlebot/ 47 10571009 20190930152700 0
+YandexBot/ 5 790845 20190930152043 0
+bingbot/ 5 369566 20190929102918 0
+SemrushBot/ 4 30364 20190930081447 0
+bot[\s_+:,\.\;\/\\-] 3 24348 20190930041408 0
+facebookexternalhit/ 2 143688 20190928015208 0
+MJ12bot/ 2 15182 20190928201849 0
+AhrefsBot/ 2 15182 20190928180916 0
+crawl 2 41925 20190930152233 0
+no_user_agent 1 33809 20190923212440 0
+Mail\.RU_Bot/ 1 8116 20190924215752 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+pdf 7 7419763 0 0
+woff 10 230900 0 0
+css 34 445570 0 0
+jpg 18 933972 0 0
+js 95 771192 0 0
+gif 1 381725 0 0
+png 33 72559 0 0
+html 45 423450 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 10
+/article_pdfs/cogsci_2015.pdf 6 0 1035654
+/article_pdfs/pnas_thorstad_wolff.pdf 4 0 8574760
+/article_pdfs/cogsci_2019.pdf 3 0 2275143
+/article_pdfs/cogsci_2016_cause.pdf 2 0 774596
+/article_pdfs/cogsci_2016_horizon.pdf 2 0 813530
+/article_pdfs/causal_reasoning_chapter_2017.pdf 2 0 839930
+/5_10_2019_vision_statement.pdf 2 0 1326648
+/bridge_articles/intrafinesse_d7news.pdf 2 0 1816930
+/article_pdfs/cogsci_2018.pdf 2 0 736956
+/bridge_articles/2018_common_game.pdf 1 0 629604
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 12
+macosx12 2 2
+macosx8 2 2
+linuxandroid 22 2
+ios_iphone 35 7
+macosx10 1 1
+linux 2 1
+Unknown 8 8
+macosx4 1 1
+win10 130 24
+macosx 36 4
+win7 3 2
+win8 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 19
+chrome75.0.3770.142 10 0
+edge36 1 1
+firefox60.0 2 1
+chrome73.0.3683.103 12 2
+chrome62.0.3202.89 2 2
+firefox67.0 1 1
+chrome77.0.3865.90 33 3
+Unknown 8 8
+firefox65.0 1 1
+chrome26.0.1410.65 2 2
+safari12.1.2 35 7
+firefox61.0 1 1
+chrome68.0.3440.106 1 1
+msie10.0 1 1
+safari13.0 13 2
+android 12 2
+chrome76.0.3809.132 104 17
+opera36.0.2130.32 2 2
+firefox33.0 2 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 5
+Ruby 20190922161312
+The_Knowledge_AI 20190926083524
+python-requests/2.22.0 20190926142719
+Go-http-client/1.1 20190929232445
+Blackboard_Safeassign 20190928083302
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 5
+The_Knowledge_AI 20190926083524
+Ruby 20190922161312
+Blackboard_Safeassign 20190928083302
+Go-http-client/1.1 20190929232445
+python-requests/2.22.0 20190926142719
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 33 43
+From1 0 0
+From2 5 9
+From3 3 3
+From4 14 188
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+google_com 0 1
+www_google_com 5 8
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+https://t.co/NVJ4hVhaPV 2 2
+https://brandnewblogs.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+404 160 179145
+206 8 270472
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 65
+/vbforum/js/ajax.js 1 robertthorstad.com
+/ads.txt 1 -
+/photo.zip 1 -
+/narratives/js/jquery.min.js 2 http://robertthorstad.com/narratives/narratives.html
+/blog/wp-admin/install.php 1 -
+/js/arrow78.js 2 http://robertthorstad.com/
+/vBulletin/js/ajax.js 1 robertthorstad.com
+/narratives/js/custom.js 2 http://robertthorstad.com/narratives/narratives.html
+//blog/ 1 http://robertthorstad.com/
+/tmp/wp-admin/install.php 1 -
+/css/bootstrap.min.css 1 http://robertthorstad.com/
+/blog/ 1 -
+/narratives/js/bootstrap.min.js 2 http://robertthorstad.com/narratives/narratives.html
+/images/ccby.png 1 http://robertthorstad.com/
+/cms/wp-admin/install.php 1 -
+/wordpress/ 1 -
+/blog/administrator/index.php 1 -
+/main/wp-admin/install.php 1 -
+/js/jquery.min.js 1 http://robertthorstad.com/
+/wp/ 1 -
+/administrator/index.php 1 -
+/fonts/glyphicons-halflings-regular.woff2 11 http://robertthorstad.com/css/bootstrap.min.css
+/thorstad_cv_4_10_2019.pdf 1 http://www.robertthorstad.com/
+/article_pdfs/cogsci_2019.pdf 2 http://robertthorstad.com/
+/js/custom.js 2 http://robertthorstad.com/
+/js/ajax.js 1 robertthorstad.com
+/narratives/js/menucollapse.js 2 http://robertthorstad.com/narratives/narratives.html
+/old/wp-admin/install.php 1 -
+/thorstad_cv_9_12_2018.pdf 1 -
+/wp-admin 4 -
+/wp-admin/install.php 1 -
+/demo/wp-admin/install.php 1 -
+/wordpress/wp-admin/install.php 1 -
+/joomla/robots.txt 1 -
+/blog/robots.txt 2 -
+/website/wp-login.php 1 -
+/js/menucollapse.js 2 http://robertthorstad.com/
+/wp/wp-admin/install.php 1 -
+/js/bootstrap.min.js 1 http://robertthorstad.com/
+/css/font-awesome.min.css 1 http://robertthorstad.com/
+/forum/js/ajax.js 1 robertthorstad.com
+/wp-admin/admin-ajax.php 9 -
+/wp-json/wp/v2/posts 1 -
+/bk/wp-admin/install.php 1 -
+/xmlrpc.php 1 -
+/site/wp-admin/install.php 1 -
+/temp/wp-admin/install.php 1 -
+/forums/js/ajax.js 1 robertthorstad.com
+/new/wp-admin/install.php 1 -
+/vb/js/ajax.js 1 robertthorstad.com
+/robots.txt 41 -
+/images/headshot_small.jpg 1 http://robertthorstad.com/
+/3 1 -
+/wp-admin/admin-post.php 13 -
+/test/wp-admin/install.php 1 -
+/wp-json/wpshopify/v1/settings 1 -
+/home/wp-admin/install.php 1 -
+/backup/wp-admin/install.php 1 -
+/2 1 -
+/news/wp-login.php 1 -
+/joomla/administrator/index.php 1 -
+/favicon.png 1 -
+/vb5/js/ajax.js 1 robertthorstad.com
+/wp-login.php 13 -
+/narratives/js/arrow78.js 2 http://robertthorstad.com/narratives/narratives.html
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 51
+73.237.162.70 14 80 2542480 20190924073658
+24.98.197.23 3 11 180220 20190923072603
+34.202.93.213 2 2 8116 20190928083302
+128.61.26.174 2 13 838579 20190925120458
+136.55.183.112 2 12 175255 20190924215134
+171.13.14.5 2 3 37285 20190926183906
+168.61.178.132 2 2 67618 20190930101047
+54.154.76.6 2 2 8116 20190924161252
+71.131.38.44 2 12 175255 20190923082334
+66.56.22.162 1 11 152165 20190930172116
+173.211.76.195 1 1 8116 20190929175018
+211.176.125.70 1 1 8116 20190929101608
+46.166.142.217 1 1 33809 20190923030245
+217.69.143.217 1 1 8116 20190926105234
+170.140.37.166 1 11 152165 20190925060720
+68.174.1.113 1 11 152165 20190929213009
+54.201.72.26 1 1 8116 20190925132511
+171.13.14.53 1 4 17346 20190927225532
+34.209.64.114 1 1 8116 20190924011005
+159.203.81.93 1 1 8116 20190928114902
+91.132.137.88 1 1 8116 20190923120343
+52.41.73.217 1 1 8116 20190929232445
+128.83.157.247 1 11 152165 20190930082547
+173.193.191.202 1 1 8116 20190930151512
+184.168.224.229 1 1 8116 20190922161312
+27.115.124.69 0 1 0 
+138.197.202.197 0 1 2143690 
+101.4.60.64 0 2 188 
+27.115.124.67 0 2 0 
+27.115.124.66 0 1 854 
+171.13.14.62 0 2 81692 
+171.13.14.35 0 2 1527 
+103.27.8.104 0 1 172609 
+93.62.191.163 0 1 908465 
+101.4.60.63 0 2 1339 
+27.115.124.68 0 2 40463 
+94.200.108.110 0 1 2143690 
+66.160.140.184 1 1 7066 20190923172341
+54.245.40.47 1 1 8116 20190926074952
+171.13.14.10 0 2 21470 
+170.140.61.164 1 10 150409 20190923071203
+171.13.14.19 0 2 1944 
+35.238.87.7 1 1 8116 20190926142719
+171.13.14.7 0 2 102459 
+171.13.14.60 1 2 43221 20190927225538
+82.202.165.24 1 1 8116 20190927034533
+171.13.14.36 0 1 30615 
+94.21.92.42 1 1 8116 20190929002414
+64.62.252.163 1 1 8116 20190926083524
+171.13.14.11 0 3 12097 
+171.13.14.37 0 1 854 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 9
+20190922 13 69 2375341 2
+20190923 9 38 1635949 6
+20190924 7 31 376778 4
+20190925 4 27 1000199 3
+20190926 6 18 208573 5
+20190927 3 13 183371 3
+20190928 3 5 4303612 2
+20190929 5 17 215244 5
+20190930 5 25 380064 4
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+5mn-15mn 1
+0s-30s 33
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 5
+/ 41 393584 32 26
+/fonts/glyphicons-halflings-regular.woff 10 230900 1 7
+/bridge.html 2 14132 1 1
+/narratives/narratives.html 1 7417 0 0
+/narratives/359.html 1 8317 0 0
+END_SIDER

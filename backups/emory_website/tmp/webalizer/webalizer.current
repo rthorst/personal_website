@@ -1,0 +1,1209 @@
+# Webalizer V2.23-05 Incremental Data - 12/15/2019 01:07:34
+2019 12 15 1 7 34
+1052 812 259 33 20 100 69362729 237 162 0
+4 2 53 1 15
+49 38 1256649 20 10 10
+72 62 3782713 17 11 9
+80 63 3049682 16 18 14
+157 122 5699776 35 27 24
+101 59 4956404 18 59 9
+102 93 8423711 33 17 14
+44 31 1632922 18 8 8
+59 45 3781055 28 11 11
+75 62 5659280 25 11 10
+60 49 2391035 19 10 9
+82 65 8865250 25 15 13
+59 45 8721526 20 16 12
+64 43 2331462 20 14 12
+44 32 7495130 19 10 7
+4 3 1316134 4 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+47 36 7501577 7
+37 27 8121956 4
+63 50 1738109 10
+60 50 5322975 8
+24 15 3100192 11
+33 24 660033 11
+7 2 22857 2
+57 46 975019 6
+32 22 3681931 9
+32 27 416397 6
+16 7 1487904 8
+42 34 5370411 9
+53 45 3602958 10
+104 88 3704230 10
+50 38 2734879 7
+23 18 7089092 10
+27 24 2539825 6
+38 29 1450089 7
+20 17 349855 6
+72 57 3619410 13
+11 4 66496 4
+117 81 3717766 57
+19 12 218459 11
+68 59 1870309 5
+0
+0
+0
+812
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+13
+0
+0
+0
+0
+0
+0
+225
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/css/font-awesome.min.css
+0 54 0 369528 0 0
+/bridge_articles/2017_game_swing_orlando.pdf
+0 1 0 495309 0 0
+/js/jquery.min.js
+0 53 0 1794413 0 0
+/article_pdfs/cogsci_2016_cause.pdf
+0 7 0 2025556 0 0
+/bridge_articles/2018_common_game.pdf
+0 1 1 629604 0 0
+/bridge_articles/2018_jeng_dhir.pdf
+0 1 0 1138512 0 0
+/bridge_articles/block_their_suit.pdf
+0 1 0 967656 0 0
+/js/bootstrap.min.js
+0 54 0 586310 0 0
+/article_pdfs/cogsci_2015.pdf
+0 10 0 1469938 0 0
+/js/menucollapse.js
+0 53 0 10250 0 0
+/bridge_articles/intrafinesse_d7news.pdf
+0 7 0 4542325 0 0
+/fonts/glyphicons-halflings-regular.eot
+0 1 0 20211 0 0
+/images/arrow78.png
+0 43 0 73752 0 0
+/js/arrow78.js
+0 55 0 49352 0 0
+/bridge_articles/intrafinesse_hands.pdf
+0 1 0 181307 0 0
+/bridge_articles/nabc_hands_2019.pdf
+0 2 0 634390 0 0
+/css/bootstrap.min.css
+0 54 0 1291346 0 0
+/article_pdfs/causal_reasoning_chapter_2017.pdf
+0 9 0 2608856 0 0
+/bridge_articles/2019_placing_cards.pdf
+0 1 0 813978 0 0
+/fonts/glyphicons-halflings-regular.woff
+0 7 0 162034 0 0
+/article_pdfs/cogsci_2019.pdf
+0 4 0 2364209 0 0
+/article_pdfs/cogsci_2016_horizon.pdf
+0 9 0 2936421 0 0
+/
+0 195 0 3099852 155 15
+/5_10_2019_vision_statement.pdf
+0 5 0 2742362 0 0
+/images/ccby.png
+0 47 0 64170 0 0
+/bridge_articles/2018_notrump_entries.pdf
+0 1 0 0 0 0
+/bridge_articles/2018_david_bird_interview.pdf
+0 10 0 11703841 0 0
+/article_pdfs/pnas_thorstad_wolff.pdf
+0 12 0 19343566 0 0
+/bridge.html
+0 11 0 77968 4 2
+/fonts/glyphicons-halflings-regular.ttf
+0 7 0 198937 0 0
+/js/custom.js
+0 55 0 78347 0 0
+/images/headshot_small.jpg
+0 46 0 3232980 0 0
+/article_pdfs/cogsci_2018.pdf
+0 10 0 3405368 0 0
+# End Of Table - urls
+# -sites- (monthly)
+52.59.255.139
+0 2 1 1291576 0 0
+-
+70.177.159.9
+0 12 11 153022 1 1575919361
+/
+170.140.105.71
+0 7 7 51886 0 0
+-
+66.249.75.88
+0 11 9 3313212 0 0
+-
+100.43.91.121
+0 1 0 857 0 0
+-
+66.249.75.200
+0 1 1 1339 0 0
+-
+54.36.148.221
+0 1 0 857 0 0
+-
+118.25.20.217
+0 1 0 857 0 0
+-
+159.138.152.113
+0 1 1 8116 1 1575858234
+/
+185.15.3.204
+0 12 11 153022 1 1575380196
+/
+93.56.74.219
+0 1 1 2143690 0 0
+-
+134.90.149.150
+0 1 1 33809 1 1576034606
+/
+50.63.162.9
+0 6 2 48721 1 1575370369
+/
+157.55.39.8
+0 1 1 8116 1 1575839459
+/
+40.77.188.35
+0 2 2 123662 0 0
+-
+54.154.106.148
+0 2 2 67618 2 1576102298
+/
+157.55.39.84
+0 1 0 857 0 0
+-
+170.140.131.111
+0 12 11 153022 1 1575288382
+/
+5.255.250.154
+0 1 1 8116 1 1575275373
+/
+46.229.168.139
+0 1 0 857 0 0
+-
+34.221.197.34
+0 1 1 8116 1 1575513408
+/
+66.249.75.91
+0 4 3 30443 1 1575468734
+/
+54.147.97.135
+0 13 13 160281 1 1575649265
+/
+46.229.168.149
+0 1 0 857 0 0
+-
+46.229.168.142
+0 1 0 857 0 0
+-
+157.55.39.117
+0 1 1 8116 1 1576019636
+/
+193.2.208.9
+0 14 13 974088 1 1575862373
+/bridge.html
+151.80.39.145
+0 2 2 16232 2 1576352286
+/
+66.249.69.162
+0 18 7 4540555 1 1575466250
+/
+77.88.47.92
+0 13 6 4079207 1 1576051303
+/
+178.221.183.172
+0 2 1 35508 1 1576235962
+/
+85.167.253.37
+0 14 12 178013 1 1575425282
+/
+100.43.85.124
+0 1 0 1699 0 0
+-
+17.58.102.78
+0 3 3 24348 3 1576212693
+/
+77.88.47.22
+0 1 0 1699 0 0
+-
+104.238.111.142
+0 51 25 889399 1 1575580825
+/
+203.22.30.3
+0 2 2 33809 1 1575277083
+/
+159.138.157.238
+0 1 1 317195 0 0
+-
+77.88.47.65
+0 1 0 1699 0 0
+-
+66.249.69.227
+0 1 1 20131 0 0
+-
+54.36.148.219
+0 1 0 857 0 0
+-
+217.61.3.234
+0 1 0 1699 1 1576233415
+-
+124.89.195.101
+0 2 2 11604 0 0
+-
+185.171.89.79
+0 1 0 857 0 0
+-
+23.239.180.45
+0 1 1 33809 1 1575809887
+/
+103.4.30.118
+0 12 11 153022 1 1575166004
+/
+54.36.149.43
+0 1 0 857 0 0
+-
+185.131.55.229
+0 1 1 8116 1 1575202857
+/
+95.216.172.195
+0 3 2 42782 1 1575596559
+/
+77.88.47.21
+0 1 0 1699 0 0
+-
+40.77.167.182
+0 2 2 6267 0 0
+-
+46.217.202.75
+0 2 1 35508 1 1576215115
+/
+151.80.39.231
+0 1 0 857 0 0
+-
+5.196.87.100
+0 1 1 89066 0 0
+-
+176.9.137.17
+0 3 2 16061 1 1576196364
+/bridge.html
+66.160.140.179
+0 2 1 8973 1 1576241442
+/
+100.43.90.163
+0 1 0 1699 0 0
+-
+54.36.148.18
+0 1 0 857 0 0
+-
+109.41.64.30
+0 15 12 177826 1 1575507847
+/
+52.34.76.65
+0 11 11 152165 1 1575631235
+/
+132.148.148.21
+0 1 0 857 0 0
+-
+46.229.168.162
+0 1 0 857 0 0
+-
+37.9.87.198
+0 1 1 8116 1 1575275373
+/
+31.13.115.3
+0 4 4 35105 0 0
+-
+98.111.207.60
+0 2 1 173466 0 0
+-
+199.16.157.180
+0 2 1 9815 1 1575464361
+/
+182.183.189.163
+0 12 12 175458 1 1575444020
+/
+151.80.39.211
+0 1 1 89066 0 0
+-
+100.11.97.18
+0 10 10 150409 1 1575329269
+/
+24.12.248.24
+0 24 22 306044 2 1576036124
+/
+47.105.197.245
+0 1 0 857 0 0
+-
+157.55.39.237
+0 1 0 857 0 0
+-
+170.140.61.143
+0 10 10 150409 1 1575962802
+/
+157.55.39.19
+0 3 0 2571 0 0
+-
+54.38.186.248
+0 1 0 857 0 0
+-
+195.219.176.1
+0 12 11 153022 1 1575366309
+/
+209.17.96.66
+0 1 1 33809 1 1575920096
+/
+54.36.149.29
+0 1 0 857 0 0
+-
+27.17.177.85
+0 1 1 368478 0 0
+-
+54.36.149.80
+0 1 1 8116 1 1576268823
+/
+66.249.69.222
+0 2 2 28247 1 1575497729
+/
+199.87.224.131
+0 12 11 153022 1 1575274300
+/
+207.46.13.182
+0 5 5 68317 2 1575689166
+/
+54.36.148.201
+0 1 0 857 0 0
+-
+50.92.72.129
+0 3 2 2582295 0 0
+-
+49.234.7.207
+0 1 1 8116 1 1576226762
+/
+40.77.188.240
+0 1 1 2045 0 0
+-
+17.58.97.185
+0 1 0 857 0 0
+-
+64.62.252.163
+0 2 1 8973 1 1575584076
+/
+40.77.189.181
+0 1 1 26710 0 0
+-
+54.36.150.116
+0 1 1 8116 1 1575730506
+/
+34.231.5.82
+0 2 2 8116 1 1576006597
+/
+40.77.188.97
+0 2 2 78343 0 0
+-
+58.22.65.252
+0 1 1 8116 1 1576339087
+/
+104.222.33.253
+0 1 1 33809 1 1575636624
+/
+59.153.113.100
+0 2 1 35508 1 1575718951
+/
+66.249.70.38
+0 1 1 8116 1 1575396059
+/
+45.77.82.252
+0 2 1 35508 1 1576274926
+/
+157.55.39.103
+0 2 1 173466 0 0
+-
+17.58.99.186
+0 2 0 1714 0 0
+-
+157.55.39.7
+0 2 0 1714 0 0
+-
+65.55.210.134
+0 11 11 167342 0 0
+-
+157.55.39.89
+0 1 1 419965 0 0
+-
+5.255.250.108
+0 1 1 8116 1 1575307971
+/
+157.55.39.87
+0 1 0 857 0 0
+-
+112.15.150.2
+0 3 2 24135 0 0
+-
+54.36.148.149
+0 1 0 857 0 0
+-
+40.77.189.19
+0 1 1 71844 0 0
+-
+69.165.155.67
+0 15 12 818060 1 1575825154
+/
+52.32.161.172
+0 1 1 8116 1 1575953606
+/
+54.36.150.103
+0 1 0 857 1 1576119002
+-
+31.13.115.20
+0 1 0 857 0 0
+-
+93.34.130.221
+0 2 1 1291576 0 0
+-
+207.46.13.236
+0 2 0 1714 0 0
+-
+40.77.188.68
+0 1 1 116524 0 0
+-
+178.140.104.173
+0 9 9 97381 1 1575640151
+/
+64.246.165.160
+0 2 1 9815 1 1575738667
+/
+40.77.190.85
+0 1 1 1756 0 0
+-
+109.41.67.91
+0 1 1 8116 1 1575559598
+/
+157.55.39.177
+0 1 1 419965 0 0
+-
+66.249.75.198
+0 1 1 8116 1 1575497710
+/
+112.109.95.2
+0 12 11 153022 1 1575410227
+/
+40.77.190.104
+0 1 1 3690 0 0
+-
+119.18.0.111
+0 12 11 153022 1 1575676048
+/
+35.227.107.48
+0 1 1 8116 1 1575365441
+/
+40.77.188.81
+0 1 1 116524 0 0
+-
+5.196.87.142
+0 2 2 96154 1 1575902725
+/bridge.html
+157.55.39.88
+0 1 1 368478 0 0
+-
+99.11.161.116
+0 30 21 282543 1 1576222883
+/
+66.249.64.3
+0 4 3 918292 1 1575396349
+/
+88.198.36.62
+0 1 1 1334404 0 0
+-
+73.237.162.70
+0 23 22 310519 2 1575463487
+/
+54.36.148.247
+0 1 0 857 0 0
+-
+139.194.37.181
+0 8 8 102863 1 1575669367
+/
+202.91.41.38
+0 1 1 33809 1 1575618569
+/
+66.249.75.93
+0 2 1 8973 1 1575435228
+/
+5.146.250.204
+0 2 1 909322 0 0
+-
+195.154.182.89
+0 2 2 67618 2 1576360983
+/
+139.9.44.209
+0 1 0 857 0 0
+-
+170.140.126.141
+0 12 11 153022 1 1575985074
+/
+104.131.103.14
+0 1 0 857 0 0
+-
+54.36.148.136
+0 1 0 857 0 0
+-
+66.249.75.89
+0 15 9 2037787 2 1576127049
+/
+148.251.9.145
+0 2 1 9815 1 1576272265
+/
+5.196.87.155
+0 1 1 89066 0 0
+-
+54.36.148.100
+0 1 0 857 0 0
+-
+157.55.39.175
+0 1 1 8116 1 1575208442
+/
+98.251.119.158
+0 15 12 818060 1 1575489354
+/
+5.196.87.173
+0 2 0 1714 0 0
+-
+103.110.254.50
+0 8 8 77170 1 1575338653
+/
+136.55.4.96
+0 12 11 153022 1 1575297745
+/
+151.80.39.222
+0 1 1 8116 1 1575609927
+/
+31.13.115.23
+0 7 7 117060 1 1575166973
+/
+46.229.168.141
+0 2 2 15204 2 1576161022
+/
+184.94.240.92
+0 3 3 101427 2 1575410760
+/
+157.55.39.25
+0 2 0 1714 0 0
+-
+157.55.39.100
+0 1 1 8116 1 1576193719
+/
+3.87.65.70
+0 4 3 82212 1 1575742859
+/
+151.80.39.78
+0 1 1 8116 1 1575900198
+/
+109.95.125.237
+0 1 1 485770 0 0
+-
+65.55.210.226
+0 11 11 167342 0 0
+-
+159.138.151.216
+0 1 1 908465 0 0
+-
+46.229.168.138
+0 1 1 8116 1 1575185894
+/
+207.46.13.32
+0 2 0 1714 0 0
+-
+40.77.167.67
+0 1 1 8116 1 1576366384
+/
+65.55.210.122
+0 11 11 167342 0 0
+-
+139.198.19.213
+0 1 1 8116 1 1575821751
+/
+54.36.148.107
+0 1 1 8116 1 1575193974
+/
+35.202.39.110
+0 1 1 8116 1 1576174288
+/
+41.239.245.158
+0 12 12 175458 1 1576151531
+/
+37.9.87.228
+0 1 1 1290719 0 0
+-
+34.222.176.21
+0 1 1 33809 1 1576319396
+/
+170.140.104.15
+0 15 11 155593 1 1575467155
+/
+5.9.70.72
+0 2 1 8787 1 1575836425
+/bridge.html
+40.77.188.124
+0 1 1 2045 0 0
+-
+5.102.173.71
+0 2 1 8973 1 1575792131
+/
+52.12.152.85
+0 1 1 33809 1 1576061297
+/
+100.43.90.161
+0 3 1 10672 1 1576016573
+/
+40.77.189.227
+0 7 7 69054 0 0
+-
+104.223.70.43
+0 14 11 4821921 1 1576165029
+/bridge.html
+40.77.188.159
+0 1 1 1756 0 0
+-
+40.77.189.9
+0 1 1 26710 0 0
+-
+103.115.120.250
+0 1 1 8116 1 1575511314
+/
+54.36.149.32
+0 1 0 857 0 0
+-
+107.158.9.178
+0 1 1 8116 1 1576164988
+/
+159.138.155.100
+0 1 1 629604 0 0
+-
+109.64.70.172
+0 2 1 35508 1 1576151622
+/
+121.7.155.68
+0 2 1 35508 1 1576200583
+/
+97.100.45.219
+0 12 11 153022 1 1575634685
+/
+40.77.167.184
+0 1 1 9848 0 0
+-
+36.250.185.239
+0 3 3 24348 1 1576301461
+/
+54.36.148.1
+0 1 0 857 0 0
+-
+36.65.80.215
+0 7 7 75831 1 1575389440
+/
+5.196.87.153
+0 1 1 89066 0 0
+-
+5.188.84.66
+0 1 1 368478 0 0
+-
+5.196.87.174
+0 1 1 8116 1 1575489155
+/
+79.106.126.116
+0 2 1 35508 1 1575797741
+/
+73.12.117.59
+0 12 11 153022 1 1575810542
+/
+178.62.74.6
+0 3 2 16061 1 1575349418
+-
+89.163.242.108
+0 2 1 9815 1 1575404732
+/
+64.15.126.101
+0 11 11 152165 1 1576057095
+/
+170.140.105.75
+0 12 11 153022 1 1575913398
+/
+148.251.235.104
+0 2 1 9815 1 1576006306
+/
+66.249.93.221
+0 5 4 6201 0 0
+-
+46.229.168.134
+0 1 0 857 0 0
+-
+54.36.150.70
+0 1 1 8116 1 1575892986
+/
+141.214.17.123
+0 12 11 153022 1 1575896558
+/
+34.217.120.87
+0 1 1 8116 1 1575608150
+/
+40.77.191.41
+0 1 1 122267 0 0
+-
+46.229.168.147
+0 1 0 857 0 0
+-
+40.77.190.45
+0 1 1 71844 0 0
+-
+151.80.39.224
+0 2 2 178132 0 0
+-
+66.249.75.86
+0 12 5 2541658 2 1576033709
+/
+103.51.139.99
+0 2 1 35508 1 1575801321
+/
+75.149.221.170
+0 2 2 41925 2 1576001980
+/
+66.249.93.222
+0 5 5 68088 1 1575515408
+/
+66.249.69.165
+0 10 5 2651095 1 1575433621
+/
+34.217.125.42
+0 1 1 33809 1 1575740856
+/
+190.172.148.241
+0 2 1 35508 1 1575659649
+/
+151.80.39.240
+0 1 1 89066 0 0
+-
+170.140.104.25
+0 12 11 153022 1 1576101503
+/
+174.194.146.39
+0 13 12 176112 1 1575726320
+/
+202.107.209.2
+0 10 10 150409 1 1575438061
+/
+12.222.235.130
+0 2 1 909322 0 0
+-
+40.77.188.178
+0 1 1 3690 0 0
+-
+54.36.149.0
+0 1 1 8116 1 1575188281
+/
+199.59.150.180
+0 2 1 9815 1 1575519648
+/
+40.77.188.207
+0 1 1 331 0 0
+-
+207.46.13.199
+0 2 2 16232 2 1575804101
+/
+5.188.210.51
+0 4 4 135236 4 1575432944
+/
+35.167.196.10
+0 1 1 33809 1 1575473944
+/
+40.77.189.187
+0 1 1 37107 0 0
+-
+207.46.13.144
+0 1 0 857 0 0
+-
+195.32.84.152
+0 14 12 912260 1 1575469056
+/
+46.229.168.133
+0 2 1 8973 1 1575522233
+/
+40.77.189.97
+0 1 1 331 0 0
+-
+88.99.95.199
+0 6 4 33150 1 1575432990
+/bridge.html
+91.242.162.26
+0 2 1 759238 0 0
+-
+207.46.13.92
+0 3 1 2568 0 0
+-
+40.77.190.112
+0 1 1 41236 0 0
+-
+40.77.167.122
+0 2 0 857 0 0
+-
+46.229.168.163
+0 1 1 7088 1 1575931620
+/bridge.html
+54.159.107.163
+0 2 0 1714 0 0
+-
+72.76.221.125
+0 6 2 22000 1 1576303233
+/bridge.html
+66.249.93.220
+0 4 3 102680 0 0
+-
+12.164.21.3
+0 12 11 153022 1 1576185333
+/
+157.55.39.196
+0 1 0 0 0 0
+-
+78.46.94.83
+0 1 1 1334404 0 0
+-
+66.249.69.180
+0 1 1 387298 0 0
+-
+5.196.87.171
+0 1 1 8116 1 1575483362
+/
+66.249.75.90
+0 3 1 9830 1 1575467139
+/
+159.138.128.53
+0 1 1 2143690 0 0
+-
+66.249.75.17
+0 1 1 8116 1 1576092461
+/
+66.249.69.190
+0 21 14 7404885 1 1576022880
+/
+40.77.190.26
+0 1 1 1395 0 0
+-
+95.216.149.140
+0 1 1 8116 1 1576163350
+/
+24.4.200.72
+0 2 1 1291576 0 0
+-
+41.200.62.193
+0 2 1 35508 1 1576009000
+/
+66.249.70.36
+0 2 1 8973 1 1575393929
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+66.249.75.88
+0 1 1 368478 0 0
+-
+159.138.157.238
+0 1 1 317195 0 0
+-
+66.249.75.89
+0 1 0 857 0 0
+-
+159.138.155.100
+0 1 1 629604 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+http://robertthorstad.com/
+0 260
+http://robertthorstad.com/bridge.html
+0 1
+http://robertthorstad.com/css/bootstrap.min.css
+0 7
+https://www.google.it/
+0 1
+https://scholar.google.com/
+0 1
+https://yandex.ru/clck/jsredir
+0 1
+http://robertthorstad.com/bridge_articles/2018_david_bird_interview.pdf
+0 3
+https://www.google.com/
+0 21
+- (Direct Request)
+0 450
+http://robertthorstad.com/article_pdfs/cogsci_2015.pdf
+0 1
+http://www.broderickblog.xyz/blog/19394369/view/
+0 1
+http://robertthorstad.com
+0 14
+https://www.google.de/
+0 1
+http://robertthorstad.com/thorstad_cv_4_10_2019.pdf
+0 2
+http://robertthorstad.com/bridge_articles/intrafinesse_d7news.pdf
+0 1
+https://t.co/NVJ4hVhaPV
+0 2
+http://www.robertthorstad.com/
+0 275
+http://www.robertthorstad.com/css/bootstrap.min.css
+0 4
+http://progressive-seo.com
+0 5
+http://robertthorstad.com/article_pdfs/cogsci_2019.pdf
+0 1
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+0 4
+Mozilla/5.0 (compatible; MegaIndex.ru/2.0; +http://megaindex.com/crawler)
+0 3
+Blackboard Safeassign
+0 2
+Mozilla/5.0 (Linux; Android 9; Infinix X626B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.96 Mobile Safari/537.36
+0 14
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:70.0) Gecko/20100101 Firefox/70.0
+0 14
+Twitterbot/1.0
+0 4
+Mozilla/5.0 (compatible; Nimbostratus-Bot/v1.3.2; http://cloudsystemnetworks.com)
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.75 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+0 2
+Mozilla/5.0 (Android 9; Mobile; rv:68.0) Gecko/68.0 Firefox/68.0
+0 13
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0
+0 1
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:53.0) Gecko/20100101 Firefox/53.0
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/75.0.3770.90 Chrome/75.0.3770.90 Safar
+0 2
+Mozilla/5.0 (Windows; U; Windows NT 5.1; de; rv:1.9) Gecko/2008052906 Firefox/3.0
+0 1
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0
+0 1
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.89 Safari/537.1
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534+ (KHTML, like Gecko) BingPreview/1.0b
+0 7
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+0 12
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+0 16
+Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Cen
+0 1
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; WOW64; Trident/6.0; MATMJS)
+0 9
+panscient.com
+0 4
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+0 12
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.1 Safari/605.1.15
+0 12
+Mozilla/5.0 (compatible; AhrefsBot/6.1; +http://ahrefs.com/robot/)
+0 36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15
+0 19
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 36
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 18
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.84 Safari/537.36
+0 1
+Go-http-client/1.1
+0 4
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36
+0 15
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Safari/537.36
+0 9
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.109 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; Cliqzbot/3.0; +http://cliqz.com/company/cliqzbot)
+0 2
+Googlebot-Image/1.0
+0 12
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36
+0 2
+Mozilla/5.0 (compatible; Panscient/1.0; +http://panscient.com/faq.htm)
+0 2
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.146 Safari/537.36
+0 1
+Googlebot/2.1 (+http://www.google.com/bot.html)
+0 24
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+0 11
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:70.0) Gecko/20100101 Firefox/70.0
+0 1
+python-requests/2.22.0
+0 1
+Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1
+0 11
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0)
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/600.2.5 (KHTML, like Gecko) Version/8.0.2 Safari/600.2.5 (Applebo
+0 6
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.89 Safari/537.36
+0 2
+Mozilla/5.0 (compatible; Seekport Crawler; http://seekport.com/)
+0 3
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:56.0) Gecko/20100101 Firefox/56.0
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:64.0) Gecko/20100101 Firefox/64.0
+0 3
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:40.0) Gecko/20100101 Firefox/40.1
+0 18
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E14
+0 13
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36 Kinza/4.8.2
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+0 179
+msnbot/2.0b (+http://search.msn.com/msnbot.htm)
+0 18
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36 OPR/64.0.
+0 12
+The Knowledge AI
+0 4
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36
+0 12
+Mozilla/5.0 (compatible; proximic; +http://www.proximic.com/info/spider.php)
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2)
+0 1
+Mozilla/5.0(Linux;U;Android 5.1.1;zh-CN;OPPO A33 Build/LMY47V) AppleWebKit/537.36(KHTML,like Gecko) Version/4.0 Chrome/40.0.2
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:59.0) Gecko/20100101 Firefox/59.0
+0 2
+Mozilla/5.0 (Android 9; Mobile; rv:68.3.0) Gecko/68.3.0 Firefox/68.3.0
+0 1
+serpstatbot/1.0 (advanced backlink tracking bot; curl/7.58.0; http://serpstatbot.com/; abuse@serpstatbot.com)
+0 6
+Mozilla/5.0 (Windows NT 6.1; rv:57.0) Gecko/20100101 Firefox/57.0
+0 1
+Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)
+0 8
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile S
+0 32
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36
+0 10
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+0 12
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+0 26
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:27.0) Gecko/20100101 Firefox/27.0
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+0 24
+python-requests/2.21.0
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:64.0) Gecko/20100101 Firefox/64.0
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0 Mobile/15E148 Sa
+0 16
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+0 35
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0
+0 5
+Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36
+0 3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0
+0 2
+Mozilla/5.0 (compatible; Qwantify/2.4w; +https://www.qwant.com/)/2.4w
+0 2
+Mozilla/5.0 (compatible; SemrushBot/6~bl; +http://www.semrush.com/bot.html)
+0 12
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.6) Gecko/20070725 Firefox/2.0.0.6
+0 51
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.4 Safari/605.1.15
+0 12
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.170 Safari/537.36 OPR/53.0.
+0 1
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.17 (KHTML, like Gecko) Chrome/24.0.1312.57 Safari/537.17 SE 2.X MetaSr 1.0
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+0 29
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36
+0 4
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+0 12
+Mozilla/5.0(Linux;Android 5.1.1;OPPO A33 Build/LMY47V;wv) AppleWebKit/537.36(KHTML,link Gecko) Version/4.0 Chrome/43.0.2357.1
+0 3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/17.1
+0 1
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0
+0 26
+Mozilla/5.0 (Linux; Android 7.0; FRD-AL00 Build/HUAWEIFRD-AL00; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome
+0 1
+Mozilla/5.0 (compatible; MojeekBot/0.7; +https://www.mojeek.com/bot.html)
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_0 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11A465 Safa
+0 60
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+0 15
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
