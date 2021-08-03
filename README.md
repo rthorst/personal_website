@@ -1,5 +1,9 @@
 # PersonalWebsite
 
-This is code for my personal website written in flask + frozen-flask.
+This is code for my personal website robertthorstad.com
 
-robertthorstad.com
+## Contents
+
+* **public_html** directory should be copied into the host.
+
+
